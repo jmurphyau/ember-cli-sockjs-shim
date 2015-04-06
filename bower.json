@@ -1,0 +1,21 @@
+{
+  "name": "ember-cli-sockjs-shim",
+  "main": [
+    "app-shim.js"
+  ],
+  "version": "0.0.1",
+  "homepage": "https://github.com/jmurphyau/ember-cli-sockjs-shim",
+  "authors": [
+    "James Murphy <jamesmurphyau@me.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sockjs-client": "1.0.0-beta.12"
+  }
+}
